@@ -1,0 +1,21 @@
+/* p-[10px] cursor-pointer text-[20px] font-serif font-[500] m-4 mb-4 gap-[10px] */
+li{
+    padding:10px;
+    cursor:pointer;
+    font-size: 20px;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-left: 15px;
+}
+h2{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px; 
+    text-align: center;
+    /* border:1px solid red; */
+    background-color: papayawhip;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width:370px;
+}
